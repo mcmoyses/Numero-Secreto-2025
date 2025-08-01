@@ -1,4 +1,4 @@
-O código em questão implementa um O código em questão implementa um jogo simples chamado "Jogo do Número Secreto". A lógica do jogo é a seguinte:
+O código em questão implementa um jogo simples chamado "Jogo do Número Secreto". A lógica do jogo é a seguinte:
 
 1) Inicialização:
 
